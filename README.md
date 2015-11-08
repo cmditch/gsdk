@@ -215,6 +215,6 @@ rails g gsdk:tutorial CONTROLLER ACTION
 
 ## Copyright
 
-Design is copyright of [Creative Tim](http://creative-tim.com). You can purchase the rails version from [UiReady]("https://uiready.io/items/get-shit-done-rails-version")
+Design is copyright of [Creative Tim](http://creative-tim.com). You can purchase the rails version from [UiReady](https://uiready.io/items/get-shit-done-rails-version)
 
 [Back to top](#table-of-content)
