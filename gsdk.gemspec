@@ -13,14 +13,6 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Get Shit Done for Rails Version is a rubygems. Packed with useful rails generators to generate your rails view in no time. One more thing, it's production ready, so no need to worry about the assets pipeline issues on production server anymore.}
   spec.homepage      = "https://uiready.io/items/get-shit-done-rails-version"
 
-  # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
-  # delete this section to allow pushing this gem to any host.
-  if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "https://packagecloud.io"
-  else
-    raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
-  end
-
   spec.files = Dir["{app,lib}/**/*"].reject{ |f|
                   f['app/assets/javascripts/bootstrap3/bootstrap.min.js'] ||
                   f['app/assets/javascripts/jquery/jquery-1.10.2.js'] ||
