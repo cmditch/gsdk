@@ -11,6 +11,7 @@ Thanks for trying out Get Shit Done (Rails Version)! We promise your rails app w
 * [Theme Structure In Rails](#theme-structure-in-rails)
 * [Page Generators](#page-generators)
 * [Changelog](#changelog)
+* [Copyright](#copyright)
 
 ## Install Preparation
 
@@ -211,3 +212,7 @@ rails g gsdk:tutorial CONTROLLER ACTION
 * First Release!
 
 [Back to top](#table-of-content)
+
+## Copyright
+
+Design is copyright of [Creative Tim](http://creative-tim.com). You can purchase the rails version from [UiReady]("https://uiready.io/items/get-shit-done-rails-version")
