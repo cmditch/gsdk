@@ -207,6 +207,10 @@ rails g gsdk:tutorial CONTROLLER ACTION
 
 ## Changelog
 
+2016.03.26 - version 1.0.0.4
+
+* Converted all JPEG to JPG since sprockets-rails 3.0 not supported
+
 2016.03.26 - version 1.0.0.3
 
 * Fixed view image loading issue

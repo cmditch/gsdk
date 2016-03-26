@@ -1,4 +1,4 @@
 module Gsdk
   GSDK_VERSION = "1.0.0"
-  VERSION = "1.0.0.3"
+  VERSION = "1.0.0.4"
 end
