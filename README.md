@@ -207,6 +207,10 @@ rails g gsdk:tutorial CONTROLLER ACTION
 
 ## Changelog
 
+2016.03.26 - version 1.0.0.2
+
+* Fixed sprockets loading issue and component view image loading issue
+
 2016.03.26 - version 1.0.0.1
 
 * Fixed get-shit-done css loading issues
