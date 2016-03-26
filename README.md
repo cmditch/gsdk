@@ -207,7 +207,11 @@ rails g gsdk:tutorial CONTROLLER ACTION
 
 ## Changelog
 
-2015.10.26 - version 1.4.0.0
+2016.03.26 - version 1.0.0.1
+
+* Fixed get-shit-done css loading issues
+
+2015.10.26 - version 1.0.0.0
 
 * First Release!
 
